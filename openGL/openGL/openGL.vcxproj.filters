@@ -32,4 +32,9 @@
       <Filter>Исходные файлы</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\container.jpg">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
